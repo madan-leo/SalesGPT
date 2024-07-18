@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.env
+.parquet
+.csv
+
+# Ignore logs
+logs/
+getdata/
+parquets/
+csvs/
+.idea/
+*.log

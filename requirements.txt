@@ -1,0 +1,7 @@
+streamlit
+duckdb
+numpy
+altair
+datetime
+openai
+dotenv
